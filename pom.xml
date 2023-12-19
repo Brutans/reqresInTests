@@ -16,6 +16,8 @@
         <rest-assured.version>4.5.1</rest-assured.version>
         <testng.version>6.9.9</testng.version>
         <maven.compiler.target>8</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <dependencies>
